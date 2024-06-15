@@ -4,4 +4,4 @@ This is me learning deep learning using YouTube and other sources.
 
 # Sources
 
-[**Pandas Tutorial (Data Analysis In Python)** by **codebasics**](https://youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+**[YouTube]** - [**Pandas Tutorial (Data Analysis In Python)**](https://youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy) by **codebasics**
