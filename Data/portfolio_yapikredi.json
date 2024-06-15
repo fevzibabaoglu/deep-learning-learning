@@ -1,0 +1,2063 @@
+{
+    "name": "yapikredi",
+    "profit": 2673.508917,
+    "profitPercentage": 4.334227,
+    "funds": {
+        "ykt": {
+            "code": "YKT",
+            "label": "YAPI KREDI PORTFOY ALTIN FONU",
+            "price": 0.322593,
+            "profit": -27.049685,
+            "profitPercentage": -0.14329,
+            "date": "2024-03-25",
+            "changes": [
+                {
+                    "daySinceStart": 0,
+                    "priceChange": 0.0,
+                    "shareChange": 47427,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": 13.5647,
+                    "threeMonthsProfitPercentage": 22.1494,
+                    "sixMonthsProfitPercentage": 42.1998,
+                    "oneYearProfitPercentage": 92.6411
+                },
+                {
+                    "daySinceStart": 1,
+                    "priceChange": 0.004677,
+                    "shareChange": 1834,
+                    "profitPercentageSinceLastChange": 1.449814
+                },
+                {
+                    "daySinceStart": 2,
+                    "priceChange": -0.005098,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.557735
+                },
+                {
+                    "daySinceStart": 3,
+                    "priceChange": -0.003105,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.963771
+                },
+                {
+                    "daySinceStart": 4,
+                    "priceChange": 0.007625,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 2.38978
+                },
+                {
+                    "daySinceStart": 5,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 6,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 7,
+                    "priceChange": -0.003517,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.076549
+                },
+                {
+                    "daySinceStart": 8,
+                    "priceChange": 0.010516,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 3.253965
+                },
+                {
+                    "daySinceStart": 9,
+                    "priceChange": -0.006517,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.953004
+                },
+                {
+                    "daySinceStart": 10,
+                    "priceChange": -0.000952,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.290977,
+                    "oneMonthProfitPercentage": 13.45471,
+                    "threeMonthsProfitPercentage": 19.752289,
+                    "sixMonthsProfitPercentage": 48.965259,
+                    "oneYearProfitPercentage": 95.750426
+                },
+                {
+                    "daySinceStart": 11,
+                    "priceChange": 0.001804,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.552998
+                },
+                {
+                    "daySinceStart": 12,
+                    "priceChange": -0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.0
+                },
+                {
+                    "daySinceStart": 13,
+                    "priceChange": -0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.0
+                },
+                {
+                    "daySinceStart": 14,
+                    "priceChange": 0.000917,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.279551
+                },
+                {
+                    "daySinceStart": 15,
+                    "priceChange": 0.011585,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 3.521887
+                },
+                {
+                    "daySinceStart": 16,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 17,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 18,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 19,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 20,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": 9.864044,
+                    "threeMonthsProfitPercentage": 25.699225,
+                    "sixMonthsProfitPercentage": 55.573932,
+                    "oneYearProfitPercentage": 98.516929
+                },
+                {
+                    "daySinceStart": 21,
+                    "priceChange": 0.000372,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.109242
+                },
+                {
+                    "daySinceStart": 22,
+                    "priceChange": -0.001958,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.574362
+                },
+                {
+                    "daySinceStart": 23,
+                    "priceChange": 0.002558,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.754701
+                },
+                {
+                    "daySinceStart": 24,
+                    "priceChange": 0.008479,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 2.48287
+                },
+                {
+                    "daySinceStart": 25,
+                    "priceChange": -0.00141,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.402881
+                },
+                {
+                    "daySinceStart": 26,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 27,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 28,
+                    "priceChange": 0.000367,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.105288
+                },
+                {
+                    "daySinceStart": 29,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 30,
+                    "priceChange": -0.010038,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -2.876745,
+                    "oneMonthProfitPercentage": 5.054356,
+                    "threeMonthsProfitPercentage": 20.743061,
+                    "sixMonthsProfitPercentage": 39.827288,
+                    "oneYearProfitPercentage": 96.796878
+                },
+                {
+                    "daySinceStart": 32,
+                    "priceChange": -0.006551,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.93303
+                },
+                {
+                    "daySinceStart": 33,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 34,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 35,
+                    "priceChange": 0.003949,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.188216
+                },
+                {
+                    "daySinceStart": 36,
+                    "priceChange": -3.9e-05,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.011597
+                },
+                {
+                    "daySinceStart": 37,
+                    "priceChange": -0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.0
+                },
+                {
+                    "daySinceStart": 38,
+                    "priceChange": -0.002588,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.769649
+                },
+                {
+                    "daySinceStart": 39,
+                    "priceChange": -0.00426,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.276714
+                },
+                {
+                    "daySinceStart": 40,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": 0.683123,
+                    "threeMonthsProfitPercentage": 20.362833,
+                    "sixMonthsProfitPercentage": 35.024717,
+                    "oneYearProfitPercentage": 88.742781
+                },
+                {
+                    "daySinceStart": 41,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 44,
+                    "priceChange": 0.000106,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.032179
+                },
+                {
+                    "daySinceStart": 45,
+                    "priceChange": -0.000984,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.298621
+                },
+                {
+                    "daySinceStart": 46,
+                    "priceChange": -0.002833,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.862323
+                },
+                {
+                    "daySinceStart": 47,
+                    "priceChange": -0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.0
+                },
+                {
+                    "daySinceStart": 48,
+                    "priceChange": -0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.0
+                },
+                {
+                    "daySinceStart": 49,
+                    "priceChange": 0.009425,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 2.893785
+                },
+                {
+                    "daySinceStart": 50,
+                    "priceChange": -0.004361,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.301313,
+                    "oneMonthProfitPercentage": -2.973893,
+                    "threeMonthsProfitPercentage": 19.966922,
+                    "sixMonthsProfitPercentage": 37.135821,
+                    "oneYearProfitPercentage": 83.40514
+                },
+                {
+                    "daySinceStart": 51,
+                    "priceChange": 0.000528,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.159631
+                },
+                {
+                    "daySinceStart": 52,
+                    "priceChange": 0.004337,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.309125
+                },
+                {
+                    "daySinceStart": 53,
+                    "priceChange": -0.000224,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.066741
+                },
+                {
+                    "daySinceStart": 54,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 55,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 57,
+                    "priceChange": 0.005959,
+                    "shareChange": 8723,
+                    "profitPercentageSinceLastChange": 1.776669
+                },
+                {
+                    "daySinceStart": 58,
+                    "priceChange": 0.000324,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.094914
+                },
+                {
+                    "daySinceStart": 60,
+                    "priceChange": -0.009581,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -2.804036,
+                    "oneMonthProfitPercentage": -2.004438,
+                    "threeMonthsProfitPercentage": 16.913269,
+                    "sixMonthsProfitPercentage": 32.688612,
+                    "oneYearProfitPercentage": 91.975976
+                },
+                {
+                    "daySinceStart": 61,
+                    "priceChange": -0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.0
+                },
+                {
+                    "daySinceStart": 62,
+                    "priceChange": -0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.0
+                },
+                {
+                    "daySinceStart": 63,
+                    "priceChange": -0.002299,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.692251
+                },
+                {
+                    "daySinceStart": 64,
+                    "priceChange": -0.000639,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.19375
+                },
+                {
+                    "daySinceStart": 65,
+                    "priceChange": 0.000772,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.234531
+                },
+                {
+                    "daySinceStart": 66,
+                    "priceChange": 0.000629,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.190641
+                },
+                {
+                    "daySinceStart": 67,
+                    "priceChange": -0.000152,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.045981
+                },
+                {
+                    "daySinceStart": 68,
+                    "priceChange": -0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.0
+                },
+                {
+                    "daySinceStart": 69,
+                    "priceChange": -0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.0
+                },
+                {
+                    "daySinceStart": 70,
+                    "priceChange": -0.002097,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.634654,
+                    "oneMonthProfitPercentage": -0.330896,
+                    "threeMonthsProfitPercentage": 14.184012,
+                    "sixMonthsProfitPercentage": 26.23624,
+                    "oneYearProfitPercentage": 81.444843
+                },
+                {
+                    "daySinceStart": 71,
+                    "priceChange": -0.001328,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.404485
+                },
+                {
+                    "daySinceStart": 72,
+                    "priceChange": 0.001641,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.501849
+                },
+                {
+                    "daySinceStart": 73,
+                    "priceChange": 0.002069,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.62958
+                },
+                {
+                    "daySinceStart": 74,
+                    "priceChange": -0.000251,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.075899
+                },
+                {
+                    "daySinceStart": 75,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 76,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 77,
+                    "priceChange": -0.001788,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.54108
+                },
+                {
+                    "daySinceStart": 78,
+                    "priceChange": -0.003936,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.197583
+                },
+                {
+                    "daySinceStart": 79,
+                    "priceChange": -0.000539,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.165986
+                },
+                {
+                    "daySinceStart": 80,
+                    "priceChange": 0.00049,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.151147,
+                    "oneMonthProfitPercentage": -3.117064,
+                    "threeMonthsProfitPercentage": 2.871546,
+                    "sixMonthsProfitPercentage": 27.400254,
+                    "oneYearProfitPercentage": 60.759042
+                },
+                {
+                    "daySinceStart": 81,
+                    "priceChange": 0.000421,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.129667
+                },
+                {
+                    "daySinceStart": 82,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                }
+            ]
+        },
+        "yas": {
+            "code": "YAS",
+            "label": "YAPI KREDI PORTFOY KOC HOLDING ISTIRAK VE HISSE SENEDI FONU(HISSE SENEDI YOGUN FON)",
+            "price": 12.165073,
+            "profit": 1507.316647,
+            "profitPercentage": 7.408072,
+            "date": "2024-03-25",
+            "changes": [
+                {
+                    "daySinceStart": 0,
+                    "priceChange": 0.0,
+                    "shareChange": 1047,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": 2.5512,
+                    "threeMonthsProfitPercentage": 26.2334,
+                    "sixMonthsProfitPercentage": 19.947,
+                    "oneYearProfitPercentage": 107.9306
+                },
+                {
+                    "daySinceStart": 1,
+                    "priceChange": -0.18541,
+                    "shareChange": 42,
+                    "profitPercentageSinceLastChange": -1.524117
+                },
+                {
+                    "daySinceStart": 2,
+                    "priceChange": -0.097648,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.815115
+                },
+                {
+                    "daySinceStart": 3,
+                    "priceChange": -0.01068,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.089884
+                },
+                {
+                    "daySinceStart": 4,
+                    "priceChange": 0.402578,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 3.391177
+                },
+                {
+                    "daySinceStart": 5,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 6,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 7,
+                    "priceChange": -0.006493,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.052901
+                },
+                {
+                    "daySinceStart": 8,
+                    "priceChange": 0.141931,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.156975
+                },
+                {
+                    "daySinceStart": 9,
+                    "priceChange": -0.124333,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.00193
+                },
+                {
+                    "daySinceStart": 10,
+                    "priceChange": 0.033621,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.273675,
+                    "oneMonthProfitPercentage": 6.386899,
+                    "threeMonthsProfitPercentage": 28.694569,
+                    "sixMonthsProfitPercentage": 12.985774,
+                    "oneYearProfitPercentage": 112.09672
+                },
+                {
+                    "daySinceStart": 11,
+                    "priceChange": 0.214989,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.745233
+                },
+                {
+                    "daySinceStart": 12,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 13,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 14,
+                    "priceChange": 0.609988,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 4.866811
+                },
+                {
+                    "daySinceStart": 15,
+                    "priceChange": 0.058698,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.446589
+                },
+                {
+                    "daySinceStart": 16,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 17,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 18,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 19,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 20,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": 10.603463,
+                    "threeMonthsProfitPercentage": 31.727583,
+                    "sixMonthsProfitPercentage": 20.972075,
+                    "oneYearProfitPercentage": 123.081774
+                },
+                {
+                    "daySinceStart": 21,
+                    "priceChange": 0.11375,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.861591
+                },
+                {
+                    "daySinceStart": 22,
+                    "priceChange": -0.146773,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.102225
+                },
+                {
+                    "daySinceStart": 23,
+                    "priceChange": -0.003973,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.030169
+                },
+                {
+                    "daySinceStart": 24,
+                    "priceChange": 0.041405,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.314501
+                },
+                {
+                    "daySinceStart": 25,
+                    "priceChange": -0.034836,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.263775
+                },
+                {
+                    "daySinceStart": 26,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 27,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 28,
+                    "priceChange": 0.158224,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.201225
+                },
+                {
+                    "daySinceStart": 29,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 30,
+                    "priceChange": -0.146982,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.102631,
+                    "oneMonthProfitPercentage": 8.36868,
+                    "threeMonthsProfitPercentage": 29.043132,
+                    "sixMonthsProfitPercentage": 30.438094,
+                    "oneYearProfitPercentage": 121.747138
+                },
+                {
+                    "daySinceStart": 32,
+                    "priceChange": 0.120138,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.911301
+                },
+                {
+                    "daySinceStart": 33,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 34,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 35,
+                    "priceChange": 0.111908,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.841207
+                },
+                {
+                    "daySinceStart": 36,
+                    "priceChange": 0.156076,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.163429
+                },
+                {
+                    "daySinceStart": 37,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 38,
+                    "priceChange": 0.219971,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.62086
+                },
+                {
+                    "daySinceStart": 39,
+                    "priceChange": 0.107329,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.778241
+                },
+                {
+                    "daySinceStart": 40,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": 13.134153,
+                    "threeMonthsProfitPercentage": 25.164451,
+                    "sixMonthsProfitPercentage": 40.935565,
+                    "oneYearProfitPercentage": 160.199157
+                },
+                {
+                    "daySinceStart": 41,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 44,
+                    "priceChange": 0.261415,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.88088
+                },
+                {
+                    "daySinceStart": 45,
+                    "priceChange": -0.181587,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.282397
+                },
+                {
+                    "daySinceStart": 46,
+                    "priceChange": 0.087196,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.623792
+                },
+                {
+                    "daySinceStart": 47,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 48,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 49,
+                    "priceChange": -0.0432,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.307133
+                },
+                {
+                    "daySinceStart": 50,
+                    "priceChange": -0.14541,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.036986,
+                    "oneMonthProfitPercentage": 4.212213,
+                    "threeMonthsProfitPercentage": 21.658098,
+                    "sixMonthsProfitPercentage": 42.030485,
+                    "oneYearProfitPercentage": 136.026248
+                },
+                {
+                    "daySinceStart": 51,
+                    "priceChange": 0.28159,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 2.02919
+                },
+                {
+                    "daySinceStart": 52,
+                    "priceChange": -0.018094,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.127796
+                },
+                {
+                    "daySinceStart": 53,
+                    "priceChange": 0.212849,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.505248
+                },
+                {
+                    "daySinceStart": 54,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 55,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 57,
+                    "priceChange": 0.391445,
+                    "shareChange": 482,
+                    "profitPercentageSinceLastChange": 2.727211
+                },
+                {
+                    "daySinceStart": 58,
+                    "priceChange": 0.335982,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 2.278654
+                },
+                {
+                    "daySinceStart": 60,
+                    "priceChange": -0.144629,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.959031,
+                    "oneMonthProfitPercentage": 13.297139,
+                    "threeMonthsProfitPercentage": 25.910989,
+                    "sixMonthsProfitPercentage": 49.701456,
+                    "oneYearProfitPercentage": 178.82509
+                },
+                {
+                    "daySinceStart": 61,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 62,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 63,
+                    "priceChange": -0.314058,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -2.102676
+                },
+                {
+                    "daySinceStart": 64,
+                    "priceChange": -0.07863,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.537749
+                },
+                {
+                    "daySinceStart": 65,
+                    "priceChange": 0.074554,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.51263
+                },
+                {
+                    "daySinceStart": 66,
+                    "priceChange": -0.076212,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.521358
+                },
+                {
+                    "daySinceStart": 67,
+                    "priceChange": -0.100705,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.692523
+                },
+                {
+                    "daySinceStart": 68,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 69,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 70,
+                    "priceChange": -0.169768,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.175593,
+                    "oneMonthProfitPercentage": 2.681848,
+                    "threeMonthsProfitPercentage": 23.250481,
+                    "sixMonthsProfitPercentage": 41.003254,
+                    "oneYearProfitPercentage": 134.924061
+                },
+                {
+                    "daySinceStart": 71,
+                    "priceChange": -0.070682,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.495274
+                },
+                {
+                    "daySinceStart": 72,
+                    "priceChange": -0.329565,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -2.320781
+                },
+                {
+                    "daySinceStart": 73,
+                    "priceChange": 0.006541,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.047156
+                },
+                {
+                    "daySinceStart": 74,
+                    "priceChange": -0.155306,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.119114
+                },
+                {
+                    "daySinceStart": 75,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 76,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 77,
+                    "priceChange": -0.131905,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.961247
+                },
+                {
+                    "daySinceStart": 78,
+                    "priceChange": -0.138323,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.017801
+                },
+                {
+                    "daySinceStart": 79,
+                    "priceChange": 0.066656,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.495508
+                },
+                {
+                    "daySinceStart": 80,
+                    "priceChange": 0.16232,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.200707,
+                    "oneMonthProfitPercentage": -2.434324,
+                    "threeMonthsProfitPercentage": 14.499621,
+                    "sixMonthsProfitPercentage": 39.479369,
+                    "oneYearProfitPercentage": 105.008317
+                },
+                {
+                    "daySinceStart": 81,
+                    "priceChange": 0.230029,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.681373
+                },
+                {
+                    "daySinceStart": 82,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                }
+            ]
+        },
+        "yay": {
+            "code": "YAY",
+            "label": "YAPI KREDI PORTFOY YABANCI TEKNOLOJI SEKTORU HISSE SENEDI FONU",
+            "price": 702.651945,
+            "profit": 892.557978,
+            "profitPercentage": 5.523964,
+            "date": "2024-03-25",
+            "changes": [
+                {
+                    "daySinceStart": 0,
+                    "priceChange": 0.0,
+                    "shareChange": 20,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": 3.9255,
+                    "threeMonthsProfitPercentage": 17.6889,
+                    "sixMonthsProfitPercentage": 45.6676,
+                    "oneYearProfitPercentage": 133.9816
+                },
+                {
+                    "daySinceStart": 1,
+                    "priceChange": -1.023405,
+                    "shareChange": 3,
+                    "profitPercentageSinceLastChange": -0.145648
+                },
+                {
+                    "daySinceStart": 2,
+                    "priceChange": 5.978158,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.85204
+                },
+                {
+                    "daySinceStart": 3,
+                    "priceChange": -0.856919,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.121101
+                },
+                {
+                    "daySinceStart": 4,
+                    "priceChange": 1.260352,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.178331
+                },
+                {
+                    "daySinceStart": 5,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 6,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 7,
+                    "priceChange": -0.632572,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.089345
+                },
+                {
+                    "daySinceStart": 8,
+                    "priceChange": 7.432683,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.050738
+                },
+                {
+                    "daySinceStart": 9,
+                    "priceChange": -15.83288,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -2.214977
+                },
+                {
+                    "daySinceStart": 10,
+                    "priceChange": -2.369582,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.339007,
+                    "oneMonthProfitPercentage": 1.9586,
+                    "threeMonthsProfitPercentage": 17.522544,
+                    "sixMonthsProfitPercentage": 41.821381,
+                    "oneYearProfitPercentage": 123.394417
+                },
+                {
+                    "daySinceStart": 11,
+                    "priceChange": 7.774587,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.116064
+                },
+                {
+                    "daySinceStart": 12,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 13,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 14,
+                    "priceChange": -12.852854,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.824698
+                },
+                {
+                    "daySinceStart": 15,
+                    "priceChange": 6.747464,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.97573
+                },
+                {
+                    "daySinceStart": 16,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 17,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 18,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 19,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 20,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": -0.559966,
+                    "threeMonthsProfitPercentage": 17.686863,
+                    "sixMonthsProfitPercentage": 43.210243,
+                    "oneYearProfitPercentage": 128.407413
+                },
+                {
+                    "daySinceStart": 21,
+                    "priceChange": -0.26363,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.037754
+                },
+                {
+                    "daySinceStart": 22,
+                    "priceChange": 4.782992,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.685229
+                },
+                {
+                    "daySinceStart": 23,
+                    "priceChange": -16.682556,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -2.37374
+                },
+                {
+                    "daySinceStart": 24,
+                    "priceChange": 5.336603,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.777801
+                },
+                {
+                    "daySinceStart": 25,
+                    "priceChange": -13.557756,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.960771
+                },
+                {
+                    "daySinceStart": 26,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 27,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 28,
+                    "priceChange": -4.713322,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.69529
+                },
+                {
+                    "daySinceStart": 29,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 30,
+                    "priceChange": -6.951588,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.03265,
+                    "oneMonthProfitPercentage": -5.183822,
+                    "threeMonthsProfitPercentage": 5.047134,
+                    "sixMonthsProfitPercentage": 37.271379,
+                    "oneYearProfitPercentage": 118.536175
+                },
+                {
+                    "daySinceStart": 32,
+                    "priceChange": 8.724305,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.309508
+                },
+                {
+                    "daySinceStart": 33,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 34,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 35,
+                    "priceChange": 14.576806,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 2.15968
+                },
+                {
+                    "daySinceStart": 36,
+                    "priceChange": 4.614625,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.669243
+                },
+                {
+                    "daySinceStart": 37,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 38,
+                    "priceChange": -2.137755,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.30797
+                },
+                {
+                    "daySinceStart": 39,
+                    "priceChange": -8.201811,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.185223
+                },
+                {
+                    "daySinceStart": 40,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": -2.17081,
+                    "threeMonthsProfitPercentage": 7.282622,
+                    "sixMonthsProfitPercentage": 36.013921,
+                    "oneYearProfitPercentage": 125.982468
+                },
+                {
+                    "daySinceStart": 41,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 44,
+                    "priceChange": 18.165508,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 2.656538
+                },
+                {
+                    "daySinceStart": 45,
+                    "priceChange": -5.455332,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.777147
+                },
+                {
+                    "daySinceStart": 46,
+                    "priceChange": 1.993913,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.28627
+                },
+                {
+                    "daySinceStart": 47,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 48,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 49,
+                    "priceChange": 5.035872,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.720947
+                },
+                {
+                    "daySinceStart": 50,
+                    "priceChange": 0.712148,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.101223,
+                    "oneMonthProfitPercentage": 0.894346,
+                    "threeMonthsProfitPercentage": 8.373284,
+                    "sixMonthsProfitPercentage": 32.092502,
+                    "oneYearProfitPercentage": 127.299173
+                },
+                {
+                    "daySinceStart": 51,
+                    "priceChange": 1.672258,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.23745
+                },
+                {
+                    "daySinceStart": 52,
+                    "priceChange": 8.956061,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.268693
+                },
+                {
+                    "daySinceStart": 53,
+                    "priceChange": 5.339451,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.746897
+                },
+                {
+                    "daySinceStart": 54,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 55,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 57,
+                    "priceChange": 2.763961,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.383764
+                },
+                {
+                    "daySinceStart": 58,
+                    "priceChange": -1.543264,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.213456
+                },
+                {
+                    "daySinceStart": 60,
+                    "priceChange": 7.309464,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.013171,
+                    "oneMonthProfitPercentage": 9.385111,
+                    "threeMonthsProfitPercentage": 7.786081,
+                    "sixMonthsProfitPercentage": 29.858486,
+                    "oneYearProfitPercentage": 123.219373
+                },
+                {
+                    "daySinceStart": 61,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 62,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 63,
+                    "priceChange": -8.36419,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.147739
+                },
+                {
+                    "daySinceStart": 64,
+                    "priceChange": 3.712171,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.5153
+                },
+                {
+                    "daySinceStart": 65,
+                    "priceChange": 1.931984,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.266811
+                },
+                {
+                    "daySinceStart": 66,
+                    "priceChange": -6.038489,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.831709
+                },
+                {
+                    "daySinceStart": 67,
+                    "priceChange": -3.436447,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.477287
+                },
+                {
+                    "daySinceStart": 68,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 69,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 70,
+                    "priceChange": -8.645801,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -1.206572,
+                    "oneMonthProfitPercentage": 3.525758,
+                    "threeMonthsProfitPercentage": 3.613305,
+                    "sixMonthsProfitPercentage": 25.637324,
+                    "oneYearProfitPercentage": 91.305292
+                },
+                {
+                    "daySinceStart": 71,
+                    "priceChange": 2.775081,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.392009
+                },
+                {
+                    "daySinceStart": 72,
+                    "priceChange": -4.054488,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.570502
+                },
+                {
+                    "daySinceStart": 73,
+                    "priceChange": 10.127796,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.433245
+                },
+                {
+                    "daySinceStart": 74,
+                    "priceChange": 5.146292,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.717992
+                },
+                {
+                    "daySinceStart": 75,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 76,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 77,
+                    "priceChange": -3.823198,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.529596
+                },
+                {
+                    "daySinceStart": 78,
+                    "priceChange": 3.455931,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.481271
+                },
+                {
+                    "daySinceStart": 79,
+                    "priceChange": 1.378367,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.191031
+                },
+                {
+                    "daySinceStart": 80,
+                    "priceChange": 14.135721,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 1.955367,
+                    "oneMonthProfitPercentage": 4.763144,
+                    "threeMonthsProfitPercentage": 6.130657,
+                    "sixMonthsProfitPercentage": 28.466954,
+                    "oneYearProfitPercentage": 72.209601
+                },
+                {
+                    "daySinceStart": 81,
+                    "priceChange": 4.270666,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.579423
+                },
+                {
+                    "daySinceStart": 82,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                }
+            ]
+        },
+        "ybe": {
+            "code": "YBE",
+            "label": "YAPI KREDI PORTFOY EUROBOND (DOLAR) BORCLANMA ARACLARI FONU",
+            "price": 0.998776,
+            "profit": 300.683977,
+            "profitPercentage": 4.771832,
+            "date": "2024-03-25",
+            "changes": [
+                {
+                    "daySinceStart": 0,
+                    "priceChange": 0.0,
+                    "shareChange": 7658,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": 3.8562,
+                    "threeMonthsProfitPercentage": 10.5123,
+                    "sixMonthsProfitPercentage": 26.0055,
+                    "oneYearProfitPercentage": 85.6382
+                },
+                {
+                    "daySinceStart": 1,
+                    "priceChange": 0.00086,
+                    "shareChange": 301,
+                    "profitPercentageSinceLastChange": 0.086105
+                },
+                {
+                    "daySinceStart": 2,
+                    "priceChange": 0.000129,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.012905
+                },
+                {
+                    "daySinceStart": 3,
+                    "priceChange": 0.003347,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.334779
+                },
+                {
+                    "daySinceStart": 4,
+                    "priceChange": 0.005527,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.550985
+                },
+                {
+                    "daySinceStart": 5,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 6,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 7,
+                    "priceChange": 0.001726,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.171122
+                },
+                {
+                    "daySinceStart": 8,
+                    "priceChange": 0.002191,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.216852
+                },
+                {
+                    "daySinceStart": 9,
+                    "priceChange": -0.009825,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.970317
+                },
+                {
+                    "daySinceStart": 10,
+                    "priceChange": -0.004681,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.466825,
+                    "oneMonthProfitPercentage": 3.518305,
+                    "threeMonthsProfitPercentage": 9.337119,
+                    "sixMonthsProfitPercentage": 26.337042,
+                    "oneYearProfitPercentage": 84.899746
+                },
+                {
+                    "daySinceStart": 11,
+                    "priceChange": 0.002713,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.27183
+                },
+                {
+                    "daySinceStart": 12,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 13,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 14,
+                    "priceChange": 0.001947,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.194552
+                },
+                {
+                    "daySinceStart": 15,
+                    "priceChange": 0.001769,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.176422
+                },
+                {
+                    "daySinceStart": 16,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 17,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 18,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 19,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 20,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": 1.834478,
+                    "threeMonthsProfitPercentage": 10.038769,
+                    "sixMonthsProfitPercentage": 26.993794,
+                    "oneYearProfitPercentage": 86.421996
+                },
+                {
+                    "daySinceStart": 21,
+                    "priceChange": 0.001642,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.163468
+                },
+                {
+                    "daySinceStart": 22,
+                    "priceChange": -0.003796,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.377291
+                },
+                {
+                    "daySinceStart": 23,
+                    "priceChange": -0.003223,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.321552
+                },
+                {
+                    "daySinceStart": 24,
+                    "priceChange": 0.007748,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.775496
+                },
+                {
+                    "daySinceStart": 25,
+                    "priceChange": -0.001931,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.191786
+                },
+                {
+                    "daySinceStart": 26,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 27,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 28,
+                    "priceChange": 0.002264,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.225292
+                },
+                {
+                    "daySinceStart": 29,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 30,
+                    "priceChange": 0.001225,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.121626,
+                    "oneMonthProfitPercentage": 0.96438,
+                    "threeMonthsProfitPercentage": 9.399684,
+                    "sixMonthsProfitPercentage": 25.418889,
+                    "oneYearProfitPercentage": 86.68518
+                },
+                {
+                    "daySinceStart": 32,
+                    "priceChange": -0.004275,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.423936
+                },
+                {
+                    "daySinceStart": 33,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 34,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 35,
+                    "priceChange": 0.004064,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.404727
+                },
+                {
+                    "daySinceStart": 36,
+                    "priceChange": 0.002506,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.248563
+                },
+                {
+                    "daySinceStart": 37,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 38,
+                    "priceChange": -0.001948,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.192737
+                },
+                {
+                    "daySinceStart": 39,
+                    "priceChange": 0.000809,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.080198
+                },
+                {
+                    "daySinceStart": 40,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0,
+                    "oneMonthProfitPercentage": 0.681439,
+                    "threeMonthsProfitPercentage": 8.642066,
+                    "sixMonthsProfitPercentage": 21.419027,
+                    "oneYearProfitPercentage": 85.788239
+                },
+                {
+                    "daySinceStart": 41,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 44,
+                    "priceChange": 0.009334,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.924558
+                },
+                {
+                    "daySinceStart": 45,
+                    "priceChange": -0.00152,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.149181
+                },
+                {
+                    "daySinceStart": 46,
+                    "priceChange": -0.000562,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.05524
+                },
+                {
+                    "daySinceStart": 47,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 48,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 49,
+                    "priceChange": 0.001123,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.110443
+                },
+                {
+                    "daySinceStart": 50,
+                    "priceChange": 0.001124,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.110419,
+                    "oneMonthProfitPercentage": 1.286326,
+                    "threeMonthsProfitPercentage": 7.91935,
+                    "sixMonthsProfitPercentage": 22.088214,
+                    "oneYearProfitPercentage": 82.249235
+                },
+                {
+                    "daySinceStart": 51,
+                    "priceChange": -0.000277,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.027182
+                },
+                {
+                    "daySinceStart": 52,
+                    "priceChange": 0.003286,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.322541
+                },
+                {
+                    "daySinceStart": 53,
+                    "priceChange": 0.001574,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.154001
+                },
+                {
+                    "daySinceStart": 54,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 55,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 57,
+                    "priceChange": -0.001175,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.114786
+                },
+                {
+                    "daySinceStart": 58,
+                    "priceChange": 0.001948,
+                    "shareChange": -1609,
+                    "profitPercentageSinceLastChange": 0.190519
+                },
+                {
+                    "daySinceStart": 60,
+                    "priceChange": -0.00318,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.31042,
+                    "oneMonthProfitPercentage": 1.272402,
+                    "threeMonthsProfitPercentage": 6.19201,
+                    "sixMonthsProfitPercentage": 18.937223,
+                    "oneYearProfitPercentage": 96.363039
+                },
+                {
+                    "daySinceStart": 61,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 62,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 63,
+                    "priceChange": 0.000194,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.018997
+                },
+                {
+                    "daySinceStart": 64,
+                    "priceChange": 0.000968,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.094769
+                },
+                {
+                    "daySinceStart": 65,
+                    "priceChange": 0.002342,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.229069
+                },
+                {
+                    "daySinceStart": 66,
+                    "priceChange": -0.002043,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.199367
+                },
+                {
+                    "daySinceStart": 67,
+                    "priceChange": 0.002554,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.249731
+                },
+                {
+                    "daySinceStart": 68,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 69,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 70,
+                    "priceChange": -0.001111,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.108363,
+                    "oneMonthProfitPercentage": 1.444089,
+                    "threeMonthsProfitPercentage": 6.224686,
+                    "sixMonthsProfitPercentage": 18.382433,
+                    "oneYearProfitPercentage": 78.074353
+                },
+                {
+                    "daySinceStart": 71,
+                    "priceChange": 0.005631,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.549826
+                },
+                {
+                    "daySinceStart": 72,
+                    "priceChange": 0.001089,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.105751
+                },
+                {
+                    "daySinceStart": 73,
+                    "priceChange": 0.008282,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.803405
+                },
+                {
+                    "daySinceStart": 74,
+                    "priceChange": -0.005844,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.562385
+                },
+                {
+                    "daySinceStart": 75,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 76,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                },
+                {
+                    "daySinceStart": 77,
+                    "priceChange": -0.003087,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.298751
+                },
+                {
+                    "daySinceStart": 78,
+                    "priceChange": 0.002498,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.242474
+                },
+                {
+                    "daySinceStart": 79,
+                    "priceChange": 0.000277,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.026823
+                },
+                {
+                    "daySinceStart": 80,
+                    "priceChange": 0.00763,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.738633,
+                    "oneMonthProfitPercentage": 2.228031,
+                    "threeMonthsProfitPercentage": 4.850797,
+                    "sixMonthsProfitPercentage": 18.646118,
+                    "oneYearProfitPercentage": 55.503569
+                },
+                {
+                    "daySinceStart": 81,
+                    "priceChange": -0.000948,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": -0.0911
+                },
+                {
+                    "daySinceStart": 82,
+                    "priceChange": 0.0,
+                    "shareChange": 0,
+                    "profitPercentageSinceLastChange": 0.0
+                }
+            ]
+        }
+    }
+}
